@@ -1,4 +1,4 @@
-Roasthubs is a plant control system for large coffee productions. 
+Roasthubs
 
-Grafana: https://grafana.roasthubs.com </br>
-Opensearch: https://logs.roasthubs.com
+The digital interface for your coffee roastery.
+Integrate, visualize and control any of your assets.
